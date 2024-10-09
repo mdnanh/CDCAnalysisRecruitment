@@ -10,5 +10,36 @@
 |1f550bf0-049c-11e...|NULL|Chrome 102|       NULL| 24|        NULL|UTF-8|http://150.136.2....|CandidatePortal|                  {}|  1|    NULL|NULL|  NULL|TRUE|        NULL|                NULL| 1280x649|2022-07-16 07:13:...|   0|Mozilla/5.0 (Wind...|1-06i42ohg-l5n4yjj9|        NULL|       NULL|      NULL|      NULL|    NULL|  1|1280x649|
 |db9c3290-0413-11e...|NULL|Chrome 103|       NULL| 24|        NULL|UTF-8|http://129.213.68...|CandidatePortal|                  {}|  1|    NULL|NULL|  NULL|TRUE|        NULL|                NULL|1920x1080|2022-07-15 14:58:...|-420|Mozilla/5.0 (Maci...|1-d605eqrr-l5m5ugxa|        NULL|       NULL|      NULL|      NULL|    NULL|  1|1920x863|
 
+# 2
 
-
+```
+root
+ |-- create_time: string (nullable = false)
+ |-- bid: integer (nullable = true)
+ |-- bn: string (nullable = true)
+ |-- campaign_id: integer (nullable = true)
+ |-- cd: integer (nullable = true)
+ |-- custom_track: string (nullable = true)
+ |-- de: string (nullable = true)
+ |-- dl: string (nullable = true)
+ |-- dt: string (nullable = true)
+ |-- ed: map (nullable = true)
+ |    |-- key: string
+ |    |-- value: string (valueContainsNull = true)
+ |-- ev: integer (nullable = true)
+ |-- group_id: integer (nullable = true)
+ |-- id: integer (nullable = true)
+ |-- job_id: integer (nullable = true)
+ |-- md: string (nullable = true)
+ |-- publisher_id: integer (nullable = true)
+ |-- rl: string (nullable = true)
+ |-- sr: string (nullable = true)
+ |-- ts: timestamp (nullable = true)
+ |-- tz: integer (nullable = true)
+ |-- ua: string (nullable = true)
+ |-- uid: string (nullable = true)
+...
+ |-- utm_term: string (nullable = true)
+ |-- v: string (nullable = true)
+ |-- vp: string (nullable = true)
+```
