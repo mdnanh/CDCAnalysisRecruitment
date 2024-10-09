@@ -36,7 +36,10 @@ root
  |-- tz: integer (nullable = true)
  |-- ua: string (nullable = true)
  |-- uid: string (nullable = true)
-...
+ |-- utm_campaign: string (nullable = true)
+ |-- utm_content: string (nullable = true)
+ |-- utm_medium: string (nullable = true)
+ |-- utm_source: string (nullable = true)
  |-- utm_term: string (nullable = true)
  |-- v: string (nullable = true)
  |-- vp: string (nullable = true)
