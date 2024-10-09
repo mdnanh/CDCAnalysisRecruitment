@@ -8,7 +8,6 @@
 |b1307ee0-064c-11e...|NULL|Chrome 103|       NULL| 24|        NULL|UTF-8|http://150.136.2....|CandidatePortal|                  {}|  1|    NULL|NULL|  NULL|TRUE|        NULL|                NULL| 1366x768|2022-07-18 10:49:...|-420|Mozilla/5.0 (Wind...|1-m8tpkuds-l4oxward|        NULL|       NULL|      NULL|      NULL|    NULL|  1|1366x625|
 |b2425d90-0cae-11e...|   1|Chrome 103|         93| 24|        NULL|UTF-8|http://fe.dev.got...|CandidatePortal|                  {}|  1|    NULL|NULL|   258|TRUE|           1|                NULL| 1366x768|2022-07-26 13:46:...|-420|Mozilla/5.0 (Wind...|1-kntupfok-l61tduvk|        NULL|       NULL|      NULL|      NULL|    NULL|  1|1366x625|
 |1f550bf0-049c-11e...|NULL|Chrome 102|       NULL| 24|        NULL|UTF-8|http://150.136.2....|CandidatePortal|                  {}|  1|    NULL|NULL|  NULL|TRUE|        NULL|                NULL| 1280x649|2022-07-16 07:13:...|   0|Mozilla/5.0 (Wind...|1-06i42ohg-l5n4yjj9|        NULL|       NULL|      NULL|      NULL|    NULL|  1|1280x649|
-|db9c3290-0413-11e...|NULL|Chrome 103|       NULL| 24|        NULL|UTF-8|http://129.213.68...|CandidatePortal|                  {}|  1|    NULL|NULL|  NULL|TRUE|        NULL|                NULL|1920x1080|2022-07-15 14:58:...|-420|Mozilla/5.0 (Maci...|1-d605eqrr-l5m5ugxa|        NULL|       NULL|      NULL|      NULL|    NULL|  1|1920x863|
 
 ```python
 root
