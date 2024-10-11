@@ -1,4 +1,4 @@
-# CDC_Analysis_Recruitment
+# CDCAnalysisRecruitment
 [![Spark](https://img.shields.io/badge/Spark-3.5.1-orange)](https://spark.apache.org/)
 [![Kafka](https://img.shields.io/badge/Kafka-lastest-black)](https://kafka.apache.org/documentation/)
 [![Cassandra](https://img.shields.io/badge/Cassandra-4.1.5-lightblue)](https://cassandra.apache.org/doc/latest/)
