@@ -106,3 +106,4 @@ job_id|date|hour|publisher_id|campaign_id|group_id|bid_set|spend_hour|click|conv
 |187|2022-07-07|10|1|48|0|0.33|2|6|NULL|NULL|NULL|33|cassandra|2022-07-06 23:21:05|
 
 Finally, if you want to visualize the data, you can use powerBI or visualization tools connected to the data warehouse to do it.
+🔥🔥🔥 🤝🤝🤝 🔥🔥🔥
