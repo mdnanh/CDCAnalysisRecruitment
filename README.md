@@ -17,7 +17,7 @@ This project is built with docker compose, so make sure you have [Docker](https:
 
 ### 2 Strart Services
 ```python
-cd CDC_Analysis_Recruitment && docker-compose up -d
+cd CDCAnalysisRecruitment && docker-compose up -d
 ```
 When all services are running:
 * Initialize a database and import dimension tables to MySQL as Data Warehouse. And initialize a table to store logs data from Cassandra. We have prepared data that need to store into Data Warehouse in folder `mySQL_dta` and logs data in folder `cassandra_dta`, you can initiate it easily.
